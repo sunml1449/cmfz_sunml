@@ -99,7 +99,7 @@
 
             <artifactId>fastjson</artifactId>
 
-            <version>1.2.45</version>
+            <version>1.2.83</version>
 
         </dependency>
 
